@@ -1,0 +1,45 @@
+{
+  "chats" : {
+    "zvbeeZjlo5VFIBwu2Z5mhZb3U7W2" : {
+      "s4SL37RhVBcIh8qqokoqYtrdSu13" : {
+        "messageID1" : {
+          "from" : "them",
+          "text" : "Hi"
+        },
+        "messageID2" : {
+          "from" : "me",
+          "text" : "Hello"
+        }
+      }
+    },
+    "s4SL37RhVBcIh8qqokoqYtrdSu13" : {
+      "zvbeeZjlo5VFIBwu2Z5mhZb3U7W2" : {
+        "messageID1" : {
+          "from" : "me",
+          "text" : "Hi"
+        },
+        "messageID2" : {
+          "from" : "them",
+          "text" : "Hello"
+        }
+      }
+    }
+  },
+  "user" : {
+    "IVDcFCFQizMDkCLpE825VEPiIam2" : {
+      "email" : "johnny@gmail.com",
+      "name" : "johnny",
+      "online" : false
+    },
+    "s4SL37RhVBcIh8qqokoqYtrdSu13" : {
+      "email" : "jessica@gmail.com",
+      "name" : "jessica",
+      "online" : false
+    },
+    "zvbeeZjlo5VFIBwu2Z5mhZb3U7W2" : {
+      "email" : "manut@gmail.com",
+      "name" : "manut",
+      "online" : true
+    }
+  }
+}

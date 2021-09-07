@@ -1,0 +1,40 @@
+{
+    "user": {
+        "userID1":{
+            "name": "Manut",
+            "email": "manut@gmail.com",
+            "online": true
+        },
+        "userID2":{
+            "name": "Sunny",
+            "email": "sunny@gmail.com",
+            "online": true
+        }
+    },
+    "chats": {
+        "userID1": {
+            "userID2": {
+                "messageID1":{
+                    "text": "Hi",
+                    "from": "them"
+                },
+                "messageID2":{
+                    "text": "Hello",
+                    "from": "me"
+                }
+            }
+        },
+        "userID2": {
+            "userID1": {
+                "messageID1":{
+                    "text": "Hi",
+                    "from": "me"
+                },
+                "messageID2":{
+                    "text": "Hello",
+                    "from": "them"
+                }
+            }
+        }
+    }
+}
